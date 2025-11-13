@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+p {
+    color: rgb(252, 0, 0);
+    font-family: "Agbalumo", system-ui;
+}
+section {
+    color: white;
+    font-family: "Agbalumo", system-ui;
+            font-weight: 400;
+            font-style: normal;
+}
+
+h1 {
+            color: rgb(255, 255, 255);
+            font-family: "Agbalumo", system-ui;
+            font-weight: 400;
+            font-style: normal;
+          }
+          
+    
+img {
+    display: block;
+    margin: 0 auto;
+    
+}
+
+  a {
+    color: red;
+}
+a:hover {
+    color: white;
+}
+
+header {
+    text-align: center;
+    font-size: 19px;
+    font-family: "Agbalumo", system-ui;
+            font-weight: 400;
+            font-style: normal;
+}
+footer {
+    text-align: center;
+    font-family: "Agbalumo", system-ui;
+            font-weight: 400;
+            font-style: normal;
+}
+main {
+    font-size: 19px;
+
+}
+
